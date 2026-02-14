@@ -4,3 +4,10 @@ packaging==26.0
 pluggy==1.6.0
 Pygments==2.19.2
 pytest==9.0.2
+
+
+# Deep learning / RL
+torch
+gymnasium
+tqdm
+eval7
